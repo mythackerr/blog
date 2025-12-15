@@ -1,7 +1,3 @@
 # Introduction
-This is my personal blog Jekyll setup and it also has the article file as well. It will be updated each time I write a new article and whenever I change the Jekyll setup.
 
-**Note:** Jekyll setup means adding plugin, defining layout, theming etc.
-
-# Installation
-This will be added in the futre.
+This repo is for my personal blogs. I intended to write my blogs in jekyll but after some research it looks like astro is a good choice for me as I'm familiar with web technologies. For now I am going to experiment on astro and later on I'll create a blog site for my need using astro.
